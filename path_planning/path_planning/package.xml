@@ -2,7 +2,7 @@
 <package>
   <name>path_planning</name>
   <version>1.0.0</version>
-  <description>A path planning algorithm using RRT visualized in RVIZ</description>
+  <description>A path planning algorithm using 2D RRT star visualized in RVIZ</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
