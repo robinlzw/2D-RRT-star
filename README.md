@@ -15,7 +15,7 @@ RVIZ parameters:  <br  />
 Once you have successfully run the path planner, the simulation should be like:
 
 <p align="center">
-  <img width="300" height="280" src="https://github.com/jiaweimeng/3D-Informed-RRT-star/blob/master/simulation_2d.png">
+  <img width="300" height="280" src="https://github.com/jiaweimeng/2D-RRT-star/blob/master/simulation_2d.png">
 </p>
 
 <p align="center"> 
